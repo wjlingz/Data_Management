@@ -1,5 +1,6 @@
-# US House Price Analysis and Prediction
-### A project for data management course (UKM masters degree)
+# US House Price Analysis and Prediction 
+### A project for data management course in UKM master's degree course (Assignment_1)
+
 ![image](https://github.com/user-attachments/assets/33f3d2ed-4ff0-4958-828a-a9c122ed9422)
 
 The housing market plays a crucial role in the U.S. economy, influencing financial stability, consumer spending, and policy decisions. With dynamic shifts driven by economic trends, demographic changes, and interest rate fluctuations, understanding the factors that affect house prices is more important than ever. Data-driven approaches offer valuable insights into these complex patterns, enabling more informed decision-making for buyers, sellers, investors, and policymakers. This project aims to analyze historical housing data and develop predictive models to anticipate future trends in U.S. house prices. Through this analysis, we seek to uncover meaningful patterns and contribute to better housing market strategies and planning. The project covers several section below:
